@@ -1,0 +1,158 @@
+2015-05-04 14:01:09.981 fire[7588:359089] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/baiqunwei/Library/Developer/CoreSimulator/Devices/B61C556A-6DF0-4764-AEED-C9563EDF1BCD/data/Containers/Data/Application/CC59C66D-8EEE-4FB9-ACC7-B2C1DD00671E/Library/Cookies/Cookies.binarycookies
+2015-05-04 14:01:10.069 fire[7588:359089] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-04 14:01:10.069 fire[7588:359089] Multi-tasking -> Device: YES, App: YES
+2015-05-04 14:01:10.094 fire[7588:359089] Unlimited access to network resources
+2015-05-04 14:01:10.192 fire[7588:359089] [CDVTimer][keyboard] 0.074029ms
+2015-05-04 14:01:10.192 fire[7588:359089] [CDVTimer][TotalPluginStartup] 1.101017ms
+2015-05-04 14:01:10.539 fire[7588:359089] Resetting plugins due to page load.
+2015-05-04 14:01:10.760 fire[7588:359089] Finished load of: file:///Users/baiqunwei/Library/Developer/CoreSimulator/Devices/B61C556A-6DF0-4764-AEED-C9563EDF1BCD/data/Containers/Bundle/Application/23D15386-008B-4D1C-AA26-288CC8437A95/fire.app/www/index.html#/app/playlists
+2015-05-04 14:01:16.352 fire[7588:359089] Resetting plugins due to page load.
+2015-05-04 14:01:17.111 fire[7588:359089] Failed to load webpage with error: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2015-05-04 14:01:17.113 fire[7588:359089] Resetting plugins due to page load.
+2015-05-04 14:01:21.260 fire[7588:359089] Finished load of: http://v.youku.com/v_show/id_XODYyMjI0MjYw.html?x
+2015-05-04 14:41:18.554 fire[7716:377236] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-04 14:41:18.554 fire[7716:377236] Multi-tasking -> Device: YES, App: YES
+2015-05-04 14:41:18.556 fire[7716:377236] Unlimited access to network resources
+2015-05-04 14:41:18.651 fire[7716:377236] [CDVTimer][keyboard] 0.057995ms
+2015-05-04 14:41:18.651 fire[7716:377236] [CDVTimer][TotalPluginStartup] 0.239015ms
+2015-05-04 14:41:18.734 fire[7716:377236] Resetting plugins due to page load.
+2015-05-04 14:41:18.972 fire[7716:377236] Finished load of: file:///Users/baiqunwei/Library/Developer/CoreSimulator/Devices/B61C556A-6DF0-4764-AEED-C9563EDF1BCD/data/Containers/Bundle/Application/8D645936-AE55-4D2B-8B7B-0C2FFF81EC2B/fire.app/www/index.html#/app/playlists
+2015-05-04 14:43:42.922 fire[7821:379639] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-04 14:43:42.923 fire[7821:379639] Multi-tasking -> Device: YES, App: YES
+2015-05-04 14:43:42.924 fire[7821:379639] Unlimited access to network resources
+2015-05-04 14:43:43.014 fire[7821:379639] [CDVTimer][keyboard] 0.057995ms
+2015-05-04 14:43:43.014 fire[7821:379639] [CDVTimer][TotalPluginStartup] 0.239968ms
+2015-05-04 14:43:43.113 fire[7821:379639] Resetting plugins due to page load.
+2015-05-04 14:43:43.348 fire[7821:379639] Finished load of: file:///Users/baiqunwei/Library/Developer/CoreSimulator/Devices/B61C556A-6DF0-4764-AEED-C9563EDF1BCD/data/Containers/Bundle/Application/47BB1F03-58E5-4B96-9A11-6A73122D2F9B/fire.app/www/index.html#/app/playlists
+2015-05-04 14:49:31.077 fire[7918:383549] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-04 14:49:31.078 fire[7918:383549] Multi-tasking -> Device: YES, App: YES
+2015-05-04 14:49:31.080 fire[7918:383549] Unlimited access to network resources
+2015-05-04 14:49:31.168 fire[7918:383549] [CDVTimer][keyboard] 0.051975ms
+2015-05-04 14:49:31.169 fire[7918:383549] [CDVTimer][TotalPluginStartup] 0.506997ms
+2015-05-04 14:49:31.250 fire[7918:383549] Resetting plugins due to page load.
+2015-05-04 14:49:31.727 fire[7918:383549] Finished load of: file:///Users/baiqunwei/Library/Developer/CoreSimulator/Devices/B61C556A-6DF0-4764-AEED-C9563EDF1BCD/data/Containers/Bundle/Application/B19541A5-E122-4728-8AD1-30DD3827AA68/fire.app/www/index.html#/app/playlists
+2015-05-04 15:02:16.816 fire[8013:390598] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-04 15:02:16.817 fire[8013:390598] Multi-tasking -> Device: YES, App: YES
+2015-05-04 15:02:16.819 fire[8013:390598] Unlimited access to network resources
+2015-05-04 15:02:16.900 fire[8013:390598] [CDVTimer][keyboard] 0.054002ms
+2015-05-04 15:02:16.901 fire[8013:390598] [CDVTimer][TotalPluginStartup] 0.805020ms
+2015-05-04 15:02:16.974 fire[8013:390598] Resetting plugins due to page load.
+2015-05-04 15:02:17.150 fire[8013:390598] Finished load of: file:///Users/baiqunwei/Library/Developer/CoreSimulator/Devices/B61C556A-6DF0-4764-AEED-C9563EDF1BCD/data/Containers/Bundle/Application/5ECE23F0-A182-42FA-9E57-A5A86F95E7D3/fire.app/www/index.html#/app/playlists
+2015-05-04 15:05:46.033 fire[8112:393885] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-04 15:05:46.034 fire[8112:393885] Multi-tasking -> Device: YES, App: YES
+2015-05-04 15:05:46.035 fire[8112:393885] Unlimited access to network resources
+2015-05-04 15:05:46.117 fire[8112:393885] [CDVTimer][keyboard] 0.056982ms
+2015-05-04 15:05:46.117 fire[8112:393885] [CDVTimer][TotalPluginStartup] 0.340998ms
+2015-05-04 15:05:46.188 fire[8112:393885] Resetting plugins due to page load.
+2015-05-04 15:05:46.751 fire[8112:393885] Finished load of: file:///Users/baiqunwei/Library/Developer/CoreSimulator/Devices/B61C556A-6DF0-4764-AEED-C9563EDF1BCD/data/Containers/Bundle/Application/C2C6F734-A69C-434D-956A-EA858D5CF024/fire.app/www/index.html#/app/playlists
+2015-05-04 15:07:11.919 fire[8202:395291] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-04 15:07:11.920 fire[8202:395291] Multi-tasking -> Device: YES, App: YES
+2015-05-04 15:07:11.921 fire[8202:395291] Unlimited access to network resources
+2015-05-04 15:07:12.019 fire[8202:395291] [CDVTimer][keyboard] 0.057995ms
+2015-05-04 15:07:12.019 fire[8202:395291] [CDVTimer][TotalPluginStartup] 0.236988ms
+2015-05-04 15:07:12.098 fire[8202:395291] Resetting plugins due to page load.
+2015-05-04 15:07:12.318 fire[8202:395291] Finished load of: file:///Users/baiqunwei/Library/Developer/CoreSimulator/Devices/B61C556A-6DF0-4764-AEED-C9563EDF1BCD/data/Containers/Bundle/Application/F46299BE-715E-461D-9C92-12A6FEF0AA69/fire.app/www/index.html#/app/playlists
+2015-05-04 15:08:32.562 fire[8292:396418] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-04 15:08:32.563 fire[8292:396418] Multi-tasking -> Device: YES, App: YES
+2015-05-04 15:08:32.565 fire[8292:396418] Unlimited access to network resources
+2015-05-04 15:08:32.669 fire[8292:396418] [CDVTimer][keyboard] 0.055015ms
+2015-05-04 15:08:32.669 fire[8292:396418] [CDVTimer][TotalPluginStartup] 0.235975ms
+2015-05-04 15:08:32.750 fire[8292:396418] Resetting plugins due to page load.
+2015-05-04 15:08:32.989 fire[8292:396418] Finished load of: file:///Users/baiqunwei/Library/Developer/CoreSimulator/Devices/B61C556A-6DF0-4764-AEED-C9563EDF1BCD/data/Containers/Bundle/Application/8089223C-C1C1-4386-96D5-B58873C723DA/fire.app/www/index.html#/app/playlists
+2015-05-04 15:16:52.627 fire[8451:402917] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-04 15:16:52.629 fire[8451:402917] Multi-tasking -> Device: YES, App: YES
+2015-05-04 15:16:52.632 fire[8451:402917] Unlimited access to network resources
+2015-05-04 15:16:52.721 fire[8451:402917] [CDVTimer][keyboard] 0.088036ms
+2015-05-04 15:16:52.721 fire[8451:402917] [CDVTimer][TotalPluginStartup] 0.325024ms
+2015-05-04 15:16:52.817 fire[8451:402917] Resetting plugins due to page load.
+2015-05-04 15:16:53.051 fire[8451:402917] Finished load of: file:///Users/baiqunwei/Library/Developer/CoreSimulator/Devices/B61C556A-6DF0-4764-AEED-C9563EDF1BCD/data/Containers/Bundle/Application/974086C5-3FC0-406E-B1B8-0CBD27836729/fire.app/www/index.html#/app/playlists
+2015-05-04 15:39:00.955 fire[8626:418547] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-04 15:39:00.957 fire[8626:418547] Multi-tasking -> Device: YES, App: YES
+2015-05-04 15:39:00.958 fire[8626:418547] Unlimited access to network resources
+2015-05-04 15:39:01.041 fire[8626:418547] [CDVTimer][keyboard] 0.105977ms
+2015-05-04 15:39:01.041 fire[8626:418547] [CDVTimer][TotalPluginStartup] 0.373960ms
+2015-05-04 15:39:01.128 fire[8626:418547] Resetting plugins due to page load.
+2015-05-04 15:39:01.287 fire[8626:418547] Finished load of: file:///Users/baiqunwei/Library/Developer/CoreSimulator/Devices/B61C556A-6DF0-4764-AEED-C9563EDF1BCD/data/Containers/Bundle/Application/565CFA9D-F629-4E87-B530-0BD195C257A6/fire.app/www/index.html
+2015-05-04 16:03:13.533 fire[8793:437890] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-04 16:03:13.535 fire[8793:437890] Multi-tasking -> Device: YES, App: YES
+2015-05-04 16:03:13.537 fire[8793:437890] Unlimited access to network resources
+2015-05-04 16:03:13.637 fire[8793:437890] [CDVTimer][keyboard] 0.118971ms
+2015-05-04 16:03:13.637 fire[8793:437890] [CDVTimer][TotalPluginStartup] 0.379026ms
+2015-05-04 16:03:13.747 fire[8793:437890] Resetting plugins due to page load.
+2015-05-04 16:03:13.960 fire[8793:437890] Finished load of: file:///Users/baiqunwei/Library/Developer/CoreSimulator/Devices/B61C556A-6DF0-4764-AEED-C9563EDF1BCD/data/Containers/Bundle/Application/7D0213E9-E5E5-4E56-AD94-EF2579E4A7A2/fire.app/www/index.html#/fire/menu/cooking
+2015-05-04 16:15:41.043 fire[8957:446348] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-04 16:15:41.045 fire[8957:446348] Multi-tasking -> Device: YES, App: YES
+2015-05-04 16:15:41.047 fire[8957:446348] Unlimited access to network resources
+2015-05-04 16:15:41.146 fire[8957:446348] [CDVTimer][keyboard] 0.063002ms
+2015-05-04 16:15:41.146 fire[8957:446348] [CDVTimer][TotalPluginStartup] 0.369012ms
+2015-05-04 16:15:41.260 fire[8957:446348] Resetting plugins due to page load.
+2015-05-04 16:15:41.537 fire[8957:446348] Finished load of: file:///Users/baiqunwei/Library/Developer/CoreSimulator/Devices/B61C556A-6DF0-4764-AEED-C9563EDF1BCD/data/Containers/Bundle/Application/DD2E4A62-D3EB-4CC9-9497-BCF4426632FD/fire.app/www/index.html#/fire/menu/cooking
+2015-05-04 16:16:34.675 fire[9105:447815] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-04 16:16:34.676 fire[9105:447815] Multi-tasking -> Device: YES, App: YES
+2015-05-04 16:16:34.678 fire[9105:447815] Unlimited access to network resources
+2015-05-04 16:16:34.765 fire[9105:447815] [CDVTimer][keyboard] 0.053942ms
+2015-05-04 16:16:34.765 fire[9105:447815] [CDVTimer][TotalPluginStartup] 0.231981ms
+2015-05-04 16:16:34.865 fire[9105:447815] Resetting plugins due to page load.
+2015-05-04 16:16:35.205 fire[9105:447815] Finished load of: file:///Users/baiqunwei/Library/Developer/CoreSimulator/Devices/B61C556A-6DF0-4764-AEED-C9563EDF1BCD/data/Containers/Bundle/Application/851FAC7B-2FB0-4129-B356-4A01DAB112D7/fire.app/www/index.html#/fire/menu/cooking
+2015-05-04 16:17:31.291 fire[9252:449011] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-04 16:17:31.294 fire[9252:449011] Multi-tasking -> Device: YES, App: YES
+2015-05-04 16:17:31.296 fire[9252:449011] Unlimited access to network resources
+2015-05-04 16:17:31.386 fire[9252:449011] [CDVTimer][keyboard] 0.055015ms
+2015-05-04 16:17:31.386 fire[9252:449011] [CDVTimer][TotalPluginStartup] 0.236988ms
+2015-05-04 16:17:31.465 fire[9252:449011] Resetting plugins due to page load.
+2015-05-04 16:17:31.832 fire[9252:449011] Finished load of: file:///Users/baiqunwei/Library/Developer/CoreSimulator/Devices/B61C556A-6DF0-4764-AEED-C9563EDF1BCD/data/Containers/Bundle/Application/EA788333-EA2C-47B9-AFEF-AB470BF34352/fire.app/www/index.html#/fire/menu/cooking
+2015-05-04 16:18:17.882 fire[9399:449957] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-04 16:18:17.884 fire[9399:449957] Multi-tasking -> Device: YES, App: YES
+2015-05-04 16:18:17.886 fire[9399:449957] Unlimited access to network resources
+2015-05-04 16:18:17.993 fire[9399:449957] [CDVTimer][keyboard] 0.172019ms
+2015-05-04 16:18:17.993 fire[9399:449957] [CDVTimer][TotalPluginStartup] 0.476003ms
+2015-05-04 16:18:18.070 fire[9399:449957] Resetting plugins due to page load.
+2015-05-04 16:18:18.682 fire[9399:449957] Finished load of: file:///Users/baiqunwei/Library/Developer/CoreSimulator/Devices/B61C556A-6DF0-4764-AEED-C9563EDF1BCD/data/Containers/Bundle/Application/5C42F2AC-E9D2-4E15-8697-F4EF8C773CF7/fire.app/www/index.html#/fire/menu/cooking
+2015-05-04 16:18:19.089 fire[9399:449957] videoinfo src = http://pl.youku.com/playlist/m3u8?vid=XOTQ3ODk5ODE2&type=flv&ts=1430727499&keyframe=0&ep=cCaXGk6PUcoJ7Sbdjj8bZXmzICZbXJZ1kn6G%2FqY5BcRQPerQmznVwg%3D%3D&sid=2430727498526122eadad&token=2745&ctype=12&ev=1&oip=2088683825
+2015-05-04 16:18:19.089 fire[9399:449957] videoinfo src = http://pl.youku.com/playlist/m3u8?vid=XOTQ3ODk5ODE2&type=flv&ts=1430727499&keyframe=0&ep=cCaXGk6PUcoJ7Sbdjj8bZXmzICZbXJZ1kn6G%2FqY5BcRQPerQmznVwg%3D%3D&sid=2430727498526122eadad&token=2745&ctype=12&ev=1&oip=2088683825
+2015-05-04 16:18:20.511 fire[9399:449957] Cache Hit vid = XOTQ3ODk5ODE2
+2015-05-04 16:18:20.511 fire[9399:449957] videoinfo src = http://pl.youku.com/playlist/m3u8?vid=XOTQ3ODk5ODE2&type=flv&ts=1430727499&keyframe=0&ep=cCaXGk6PUcoJ7Sbdjj8bZXmzICZbXJZ1kn6G%2FqY5BcRQPerQmznVwg%3D%3D&sid=2430727498526122eadad&token=2745&ctype=12&ev=1&oip=2088683825
+2015-05-04 16:19:36.485 fire[9546:450995] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-04 16:19:36.486 fire[9546:450995] Multi-tasking -> Device: YES, App: YES
+2015-05-04 16:19:36.488 fire[9546:450995] Unlimited access to network resources
+2015-05-04 16:19:36.581 fire[9546:450995] [CDVTimer][keyboard] 0.054002ms
+2015-05-04 16:19:36.581 fire[9546:450995] [CDVTimer][TotalPluginStartup] 0.233948ms
+2015-05-04 16:19:36.658 fire[9546:450995] Resetting plugins due to page load.
+2015-05-04 16:19:37.251 fire[9546:450995] Finished load of: file:///Users/baiqunwei/Library/Developer/CoreSimulator/Devices/B61C556A-6DF0-4764-AEED-C9563EDF1BCD/data/Containers/Bundle/Application/5C82247D-7D28-4878-BCC9-567A9D288F28/fire.app/www/index.html#/fire/menu/cooking
+2015-05-04 16:19:37.507 fire[9546:450995] videoinfo src = http://pl.youku.com/playlist/m3u8?vid=XOTQ3ODk5ODE2&type=flv&ts=1430727577&keyframe=0&ep=cyaXGk6PUcsH4yrWiD8bNi3kciNcXJZ1kn6G%2FqY5BcRQPerQnzzRzg%3D%3D&sid=143072757699012a166dc&token=6209&ctype=12&ev=1&oip=2088683825
+2015-05-04 16:19:37.508 fire[9546:450995] videoinfo src = http://pl.youku.com/playlist/m3u8?vid=XOTQ3ODk5ODE2&type=flv&ts=1430727577&keyframe=0&ep=cyaXGk6PUcsH4yrWiD8bNi3kciNcXJZ1kn6G%2FqY5BcRQPerQnzzRzg%3D%3D&sid=143072757699012a166dc&token=6209&ctype=12&ev=1&oip=2088683825
+2015-05-04 16:19:38.993 fire[9546:450995] Cache Hit vid = XOTQ3ODk5ODE2
+2015-05-04 16:19:38.994 fire[9546:450995] videoinfo src = http://pl.youku.com/playlist/m3u8?vid=XOTQ3ODk5ODE2&type=flv&ts=1430727577&keyframe=0&ep=cyaXGk6PUcsH4yrWiD8bNi3kciNcXJZ1kn6G%2FqY5BcRQPerQnzzRzg%3D%3D&sid=143072757699012a166dc&token=6209&ctype=12&ev=1&oip=2088683825
+2015-05-04 16:20:52.899 fire[9693:452101] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-04 16:20:52.900 fire[9693:452101] Multi-tasking -> Device: YES, App: YES
+2015-05-04 16:20:52.902 fire[9693:452101] Unlimited access to network resources
+2015-05-04 16:20:53.011 fire[9693:452101] [CDVTimer][keyboard] 0.075042ms
+2015-05-04 16:20:53.012 fire[9693:452101] [CDVTimer][TotalPluginStartup] 0.298977ms
+2015-05-04 16:20:53.097 fire[9693:452101] Resetting plugins due to page load.
+2015-05-04 16:20:54.449 fire[9693:452101] Finished load of: file:///Users/baiqunwei/Library/Developer/CoreSimulator/Devices/B61C556A-6DF0-4764-AEED-C9563EDF1BCD/data/Containers/Bundle/Application/BFE6A2CD-F9C8-4533-AEE1-9770898F4691/fire.app/www/index.html#/fire/menu/cooking
+2015-05-04 16:20:54.746 fire[9693:452101] videoinfo src = http://pl.youku.com/playlist/m3u8?vid=XOTQ3ODk5ODE2&type=flv&ts=1430727654&keyframe=0&ep=cyaXGk6PUcgF4SLWiT8bMyrgIH4KXJZ1kn6G%2FqY5BcRQPerQkT7Tww%3D%3D&sid=143072765419112d62d95&token=8024&ctype=12&ev=1&oip=2088683825
+2015-05-04 16:20:54.747 fire[9693:452101] videoinfo src = http://pl.youku.com/playlist/m3u8?vid=XOTQ3ODk5ODE2&type=flv&ts=1430727654&keyframe=0&ep=cyaXGk6PUcgF4SLWiT8bMyrgIH4KXJZ1kn6G%2FqY5BcRQPerQkT7Tww%3D%3D&sid=143072765419112d62d95&token=8024&ctype=12&ev=1&oip=2088683825
+2015-05-04 16:20:55.450 fire[9693:452101] Cache Hit vid = XOTQ3ODk5ODE2
+2015-05-04 16:20:55.450 fire[9693:452101] videoinfo src = http://pl.youku.com/playlist/m3u8?vid=XOTQ3ODk5ODE2&type=flv&ts=1430727654&keyframe=0&ep=cyaXGk6PUcgF4SLWiT8bMyrgIH4KXJZ1kn6G%2FqY5BcRQPerQkT7Tww%3D%3D&sid=143072765419112d62d95&token=8024&ctype=12&ev=1&oip=2088683825
+2015-05-04 16:26:26.159 fire[10060:455620] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-04 16:26:26.160 fire[10060:455620] Multi-tasking -> Device: YES, App: YES
+2015-05-04 16:26:26.161 fire[10060:455620] Unlimited access to network resources
+2015-05-04 16:26:26.268 fire[10060:455620] [CDVTimer][keyboard] 0.055969ms
+2015-05-04 16:26:26.268 fire[10060:455620] [CDVTimer][TotalPluginStartup] 0.238001ms
+2015-05-04 16:26:26.338 fire[10060:455620] Resetting plugins due to page load.
+2015-05-04 16:26:26.861 fire[10060:455620] Finished load of: file:///Users/baiqunwei/Library/Developer/CoreSimulator/Devices/B61C556A-6DF0-4764-AEED-C9563EDF1BCD/data/Containers/Bundle/Application/C18FC6F0-06AE-43E8-8D62-7E4D8A7FD518/fire.app/www/index.html#/fire/menu/cooking
+2015-05-04 16:26:27.106 fire[10060:455620] videoinfo src = http://pl.youku.com/playlist/m3u8?vid=XOTQ3ODk5ODE2&type=flv&ts=1430727987&keyframe=0&ep=cyaXGk6PUccI4ybWiT8bNX%2FqIiQKXJZ1kn6G%2FqY5BcRQPerQnjrYxw%3D%3D&sid=143072798659112bc8fc5&token=7490&ctype=12&ev=1&oip=2088683825
+2015-05-04 16:26:27.107 fire[10060:455620] videoinfo src = http://pl.youku.com/playlist/m3u8?vid=XOTQ3ODk5ODE2&type=flv&ts=1430727987&keyframe=0&ep=cyaXGk6PUccI4ybWiT8bNX%2FqIiQKXJZ1kn6G%2FqY5BcRQPerQnjrYxw%3D%3D&sid=143072798659112bc8fc5&token=7490&ctype=12&ev=1&oip=2088683825
+2015-05-04 16:26:28.678 fire[10060:455620] Cache Hit vid = XOTQ3ODk5ODE2
+2015-05-04 16:26:28.679 fire[10060:455620] videoinfo src = http://pl.youku.com/playlist/m3u8?vid=XOTQ3ODk5ODE2&type=flv&ts=1430727987&keyframe=0&ep=cyaXGk6PUccI4ybWiT8bNX%2FqIiQKXJZ1kn6G%2FqY5BcRQPerQnjrYxw%3D%3D&sid=143072798659112bc8fc5&token=7490&ctype=12&ev=1&oip=2088683825
+2015-05-04 16:26:43.268 fire[10207:456173] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-04 16:26:43.269 fire[10207:456173] Multi-tasking -> Device: YES, App: YES
+2015-05-04 16:26:43.271 fire[10207:456173] Unlimited access to network resources
+2015-05-04 16:26:43.421 fire[10207:456173] [CDVTimer][keyboard] 0.097036ms
+2015-05-04 16:26:43.423 fire[10207:456173] [CDVTimer][TotalPluginStartup] 1.710057ms
+2015-05-04 16:26:43.511 fire[10207:456173] Resetting plugins due to page load.
+2015-05-04 16:26:43.936 fire[10207:456173] Finished load of: file:///Users/baiqunwei/Library/Developer/CoreSimulator/Devices/B61C556A-6DF0-4764-AEED-C9563EDF1BCD/data/Containers/Bundle/Application/BD88AE67-F162-48C4-9164-9D1ABBBA6DFB/fire.app/www/index.html#/fire/menu/cooking
+2015-05-04 16:26:44.142 fire[10207:456173] videoinfo src = http://pl.youku.com/playlist/m3u8?vid=XOTQ3ODk5ODE2&type=flv&ts=1430728004&keyframe=0&ep=eyaXGk6PXs4A5iXZgT8bMi60ICFeXJZ1kn6G%2FqY5BcRQPerQnzfRzg%3D%3D&sid=943072800366912e2fdfa&token=6909&ctype=12&ev=1&oip=2088683825
+2015-05-04 16:26:44.143 fire[10207:456173] videoinfo src = http://pl.youku.com/playlist/m3u8?vid=XOTQ3ODk5ODE2&type=flv&ts=1430728004&keyframe=0&ep=eyaXGk6PXs4A5iXZgT8bMi60ICFeXJZ1kn6G%2FqY5BcRQPerQnzfRzg%3D%3D&sid=943072800366912e2fdfa&token=6909&ctype=12&ev=1&oip=2088683825
+2015-05-04 16:26:45.824 fire[10207:456173] Cache Hit vid = XOTQ3ODk5ODE2
+2015-05-04 16:26:45.824 fire[10207:456173] videoinfo src = http://pl.youku.com/playlist/m3u8?vid=XOTQ3ODk5ODE2&type=flv&ts=1430728004&keyframe=0&ep=eyaXGk6PXs4A5iXZgT8bMi60ICFeXJZ1kn6G%2FqY5BcRQPerQnzfRzg%3D%3D&sid=943072800366912e2fdfa&token=6909&ctype=12&ev=1&oip=2088683825
