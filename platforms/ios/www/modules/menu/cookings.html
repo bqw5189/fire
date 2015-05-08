@@ -1,0 +1,12 @@
+<ion-view view-title="我的菜谱">
+  <ion-content>
+    
+		<ion-list>
+		  <ion-item ng-repeat="item in items" ng-href="#/fire/menu/cookings/{{item.vid}}">
+		    {{item.title}}
+		  </ion-item>
+		</ion-list>
+
+
+  </ion-content>
+</ion-view>

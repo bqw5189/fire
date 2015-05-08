@@ -27,5 +27,5 @@ var fire = angular.module('fire', ['ionic', 'menu.controllers'])
 	    templateUrl: "index.html"
 	  })
   // if none of the above states are matched, use this as the fallback
-  $urlRouterProvider.otherwise('/fire/menu/cooking');
+  $urlRouterProvider.otherwise('/fire/menu/cookings');
 });
